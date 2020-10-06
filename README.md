@@ -1,1 +1,2 @@
-# angrybirds-slingshot-6-10-20
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
